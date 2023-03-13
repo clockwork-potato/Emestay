@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Emestay/Emestay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Florent Beaudrix, a Web dev based in Toulouse, France. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔭 My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the cool projects I've been working on:
+
+- [Project 1](Link to project) - Description of the project
+- [Project 2](Link to project) - Description of the project
+- [Project 3](Link to project) - Description of the project
+
+## 🌱 What I'm currently learning
+
+I'm always looking to learn new things and improve my skills. Currently, I'm focused on:
+
+- [Skill 1](Link to resource) - Description of the skill/resource
+- [Skill 2](Link to resource) - Description of the skill/resource
+
+## 👯‍♀️ Looking to collaborate?
+
+I'm always open to collaborating on new projects. If you're interested in working together, feel free to reach out to me!
+
+## 📫 How to reach me
+
+- [Email](Your email address)
+- [LinkedIn](Link to LinkedIn profile)
+- [Twitter](Link to Twitter profile)
+
+## 🚀 My skills
+
+- Skill 1
+- Skill 2
+- Skill 3
+
+Thanks for visiting my profile! Let's connect and build something cool together. 😄
