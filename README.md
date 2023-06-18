@@ -32,6 +32,6 @@ I'm always open to collaborating on new projects. If you're interested in workin
 - Skill 1
 - Skill 2
 - Skill 3
-- Ski
+- SkiL
 
 Thanks for visiting my profile! Let's connect and build something cool together. 😄
